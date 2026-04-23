@@ -30,6 +30,8 @@ I like working on things related to:
 
 ## 📌 Projects
 
+* [k6-api-performance-framework](https://github.com/GonzaloBaldiviezo/k6-api-performance-framework) — Performance testing framework for HTTP APIs built with k6 and TypeScript, with smoke, load, and baseline comparison workflows.
+* [stack-health-cli](https://github.com/GonzaloBaldiviezo/stack-health-cli) — CLI that analyzes local project health and generates a report with a score based on best practices.
 * [playwright-ui-automation-framework](https://github.com/GonzaloBaldiviezo/playwright-ui-automation-framework) — UI automation framework with POM, visual regression, cross-browser testing, CI/CD and test tagging.
 * [playwright-api-automation-framework](https://github.com/GonzaloBaldiviezo/playwright-api-automation-framework) — API test automation framework with reusable ApiClient, fixture injection, layered test strategy, and CI/CD.
 
